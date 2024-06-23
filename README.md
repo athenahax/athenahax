@@ -1,8 +1,8 @@
 ## About Me
 
-hi, i'm athena ☮
-i am a 19 year old hobbyist programmer & security researcher.
-started breaking computers at 3 years old 😊
+hi, i'm athena ☮\
+i am a 19 year old hobbyist programmer & security researcher.\
+started breaking computers at 3 years old 😊\
 
 #### Languages
 
