@@ -15,6 +15,6 @@ started breaking computers at 3 years old 😊
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Contact
-**Telegram** - `https://t.me/murderhole`\
+**Telegram** - [Click me!](https://t.me/murderhole)\
 **Discord** - `murderhole` (`341627960077320192`)\
 **Email** - `athena@bellair.net`
