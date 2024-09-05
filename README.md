@@ -1,7 +1,7 @@
 ## About Me
 
 hi, i'm **athena**! ☮\
-i am a 19 year old hobbyist programmer & security researcher.\
+i am a 19 year old hobbyist programmer & security researcher.
 
 > 𝓦𝓱𝓮𝓷 𝓽𝓱𝓮 𝓼𝔀𝓪𝓰 𝓲𝓼 𝓲𝓷𝓬𝓻𝓮𝓭𝓲𝓫𝓵𝓮, 𝓽𝓱𝓪𝓽 𝓫𝓪𝓰 𝓲𝓼 𝓲𝓷𝓮𝓿𝓲𝓽𝓪𝓫𝓵𝓮...
 
