@@ -2,7 +2,6 @@
 
 hi, i'm **athena**! ☮\
 i am a 19 year old hobbyist programmer & security researcher.\
-started breaking computers at 3 years old 😊
 
 > 𝓦𝓱𝓮𝓷 𝓽𝓱𝓮 𝓼𝔀𝓪𝓰 𝓲𝓼 𝓲𝓷𝓬𝓻𝓮𝓭𝓲𝓫𝓵𝓮, 𝓽𝓱𝓪𝓽 𝓫𝓪𝓰 𝓲𝓼 𝓲𝓷𝓮𝓿𝓲𝓽𝓪𝓫𝓵𝓮...
 
@@ -16,5 +15,5 @@ started breaking computers at 3 years old 😊
 
 #### Contact
 **Telegram** - [Click me!](https://t.me/murderhole)\
-**Discord** - `murderhole` (`341627960077320192`)\
+**Discord** - `gazeless` (`1266237241768808472`)\
 **Email** - `athena@bellair.net`
