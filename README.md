@@ -16,4 +16,4 @@ i am a 19 year old hobbyist programmer & security researcher.
 #### Contact
 **Telegram** - [Click me!](https://t.me/murderhole)\
 **Discord** - `gazeless` (`1266237241768808472`)\
-**Email** - `athena@bellair.net`
+**Email** - `majesty@live.com`
