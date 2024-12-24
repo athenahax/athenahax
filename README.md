@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://moe-counter.glitch.me/get/@:athenahax?theme=sketch-1">
+<img src="https://moe-counter.glitch.me/get/@:athenahax?theme=booru-qualityhentais">
 </div>
