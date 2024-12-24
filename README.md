@@ -1,4 +1,4 @@
 <div align="center">
-<h3>hi, i am athena</h3>
+<p>hello, i am athena</p>
 <img src="https://moe-counter.glitch.me/get/@:athenahax?theme=gelbooru">
 </div>
